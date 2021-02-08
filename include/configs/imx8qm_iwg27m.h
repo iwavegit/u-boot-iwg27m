@@ -9,7 +9,7 @@
 #include <asm/arch/imx-regs.h>
 #include "imx_env.h"
 
-#define BSP_VERSION		 	"iW-PRFHZ-SC-01-R4.0-REL1.0a-Linux5.4.24"
+#define BSP_VERSION		 	"iW-PRFHZ-SC-01-R4.0-REL0.2-Linux5.4.24"
 
 #ifdef CONFIG_SPL_BUILD
 #define CONFIG_SPL_MAX_SIZE				(192 * 1024)
